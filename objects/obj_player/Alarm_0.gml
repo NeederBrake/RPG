@@ -1,0 +1,1 @@
+state = CHARACTERS_STATES.IDLE;
