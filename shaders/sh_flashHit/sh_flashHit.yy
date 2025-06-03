@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_flashHit",
+  "name":"sh_flashHit",
+  "parent":{
+    "name":"FX",
+    "path":"folders/FX.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
